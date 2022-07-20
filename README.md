@@ -1,2 +1,11 @@
-# HMS
-DBMS Prooject
+# HMS - DBMS Prooject
+
+Health of citizen is the wealth of Nation. India has contributes the most ancie Medical science "AYURVEDA" to the world besides other medical sciences. This field had process witnessed a rapid metamorphosis in all of its sections. Hospital Management System is designed to improve the quality and management of hospital in the areas of clinical analysis and activity-based costing. Hospital Management System enables you to develop your organization and improve its effectiveness and quality of work. Managing the key processes efficiently is critical to the success of the hospital helps you manage your processes.
+
+The Hospital Management System can be entered using a username and password. It is accessible by an Admin, Doctor & Receptionist. Only they can add data into the database The data can be retrieved easily. The data are well protected for personal use and makes the data processing very fast. Hospital Management System is powerful, flexible, and easy to use and is designed and developed to deliver real conceivable benefits to hospitals.
+
+The project Management system includes registration of patients, storing their details into the system by using database. The software has the facility to give a unique id for every patient and stores the details of every patient and the staff manually. Admin can view availability of a doctor and the details of a patient using the name, id..
+
+Hospital Management System is designed for multi specialist hospitals, to cover a wide range of hospital administration and management processes. It also aims at providing low-cost reliable automation of the existing systems. The system also provides excellent security of data at every level of user-system interaction and also provides robust & reliable storage facilities.
+
+The Hospital Management System is designed for any hospital to replace their existing manual paper-based system. The new system is to control the information of patients as well as doctors. These services are to be provided in an efficient, cost effective manner, with the goal of reducing the time and resources currently required for such tasks. The complete set of rules & procedures related to Hospital's day to day activities and generating report is called "Hospital Management System". It is a computerized management system. This system also keeps the records of hardware assets besides software of this organization. The proposed system will keep a track of Doctors, Patients & Receptionist. This project has GUI based software that will help in storing, updating and retrieving the information through various user-friendly menu-driven modules.
